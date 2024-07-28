@@ -21,5 +21,7 @@ public class ParOuImpar {
         }else {
             System.out.print(" é um número positivo");
         }
+
+        input.close();
     }
 }

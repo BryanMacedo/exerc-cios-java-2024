@@ -25,5 +25,7 @@ public class Soma {
         }else {
             System.out.println("Soma é maior que c");
         }
+
+        input.close();
     }
 }
